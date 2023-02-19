@@ -43,5 +43,4 @@ lifeCycleConfig:
 webUI:
   - url: "https://[CI_CD_DOMAIN]"
     label: "Picoshare Admin"
-    login: "[ADMIN_EMAIL]"
     password: "[ADMIN_PASSWORD]"

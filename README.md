@@ -10,7 +10,7 @@ Deploy Picoshare server with CI/CD on Elestio
 
 # Once deployed ...
 
-You can can open Picoshare UI here:
+You can open Picoshare UI here:
 
     URL: https://[CI_CD_DOMAIN]
     password: [ADMIN_PASSWORD]

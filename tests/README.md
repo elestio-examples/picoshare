@@ -67,7 +67,7 @@ Here are some example snippets to help you get started creating a container.
 |       Variable       | Value (example) |
 | :------------------: | :-------------: |
 | SOFTWARE_VERSION_TAG |     latest      |
-| ADMIN_PASSWORD       | <your password> |
+| ADMIN_PASSWORD       | your-password   |
 
 
 # Maintenance

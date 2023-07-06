@@ -14,9 +14,9 @@ A better community platform for the modern web.
 
 <img src="https://github.com/elestio-examples/picoshare/raw/main/picoshare.gif" alt="picoshare" width="800">
 
-Deploy a <a target="_blank" href="https://elest.io/open-source/yopass">fully managed PicoShare</a> on <a target="_blank" href="https://elest.io/">elest.io</a> Application for Sharing Photos,Videos and Other Files to Community of People.
+Deploy a <a target="_blank" href="https://elest.io/open-source/picoshare">fully managed PicoShare</a> on <a target="_blank" href="https://elest.io/">elest.io</a> Application for Sharing Photos,Videos and Other Files to Community of People.
 
-[![deploy](https://github.com/elestio-examples/yopass/raw/main/deploy-on-elestio.png)](https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/yopass)
+[![deploy](https://github.com/elestio-examples/picoshare/raw/main/deploy-on-elestio.png)](https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/picoshare)
 
 # Why use Elestio images?
 

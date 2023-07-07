@@ -7,7 +7,5 @@ services:
       - PS_SHARED_SECRET=${ADMIN_PASSWORD}
     ports:
       - 172.17.0.1:4001:4001
-    command: 
-      - db /data/store.db
     volumes:
       - ./data:/data

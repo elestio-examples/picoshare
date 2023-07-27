@@ -1,7 +1,7 @@
 version: "3.2"
 services:
   picoshare:
-    image: mtlynch/picoshare:${SOFTWARE_VERSION_TAG}
+    image: elestio/picoshare:${SOFTWARE_VERSION_TAG}
     environment:
       - PORT=4001
       - PS_SHARED_SECRET=${ADMIN_PASSWORD}
